@@ -10,7 +10,8 @@ out/
 # Docs
 docs/
 
-lib/forge-std
+broadcast/
+lib/*
 
 # Dotenv file
 .env
