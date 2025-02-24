@@ -31,7 +31,7 @@ make
 ### Deploy
 
 ```
-forge script script/DeployFundMe.s.sol
+forge script script/FundMe.s.sol
 ```
 
 ### Testing
